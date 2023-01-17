@@ -1,6 +1,6 @@
 function automaticText() {
     $(document).ready(function() {
-        var initialText = "Hello! my name is Phat Tran and welcome to my portfolio.";
+        var initialText = "Hello! My name is Phat Tran, welcome to my portfolio.";
         $("#automaticText-container").text(initialText);
         var text = "";
         var i = 0;
